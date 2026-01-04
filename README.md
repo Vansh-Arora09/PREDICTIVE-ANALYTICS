@@ -27,5 +27,5 @@ The datasets used in these workflows are hosted externally due to file size cons
 ## 🚀 Getting Started
 
 1. **Clone the Repo:**
-   ```bash
+   
    git clone [https://github.com/Vansh-Arora09/PREDICTIVE-ANALYTICS.git](https://github.com/Vansh-Arora09/PREDICTIVE-ANALYTICS.git)
