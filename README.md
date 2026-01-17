@@ -7,7 +7,7 @@ It is designed as a reference for anyone learning or applying predictive analyti
 
 ---
 
-## 📌 Objectives
+## 📌 Objectives 
 
 - **Complete Pipelines:** Implement end-to-end data processing and model deployment workflows.
 - **Model Benchmarking:** Apply multiple ML algorithms and compare performance.
